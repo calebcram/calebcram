@@ -1,10 +1,10 @@
 ### Hello World 👋
 I’m an XR developer and Experienced Technician with a passion for Extended Realtiy and the seemingly infinate possibilities there are to be explored within the technology as innovation and capabilities grow. I'm currently studying GIMM (Gaming Interactive Media and Mobile Technology) at Boise State University and leading the BSU NASA SUITS research team through which I have been exposed to Mixed Reality development combining VR, Hololens2 AR and traditional desktop software to create a seamless telepresense experience for enhanced communication. 
 
-- 📫 Connect With Me on https://www.linkedin.com/in/caleb-cram-devloper
 - 🌱 I’m currently learning XR Development for the Hololens 2
 - 🔭 I’m working on leveraging compter vision to enable object recogniton in ARSIS 4.0
 - 👯 I’m looking to collaborate on Open Source Mixed Reality Projects
+- 📫 Connect With Me on https://www.linkedin.com/in/caleb-cram-devloper
 - 💬 Vist https://sites.google.com/view/calebcram-gamedeveloper/home?authuser=0 to learn more 
 <!--
 **calebcram/calebcram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
