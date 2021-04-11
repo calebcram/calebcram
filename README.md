@@ -21,13 +21,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Caleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=calebcram&show_icons=true&theme=gruvbox)
+![Caleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=calebcram&show_icons=true&theme=yeblu)
 ![Caleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=calebcram&show_icons=true&theme=nightowl)
 ![Caleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=calebcram&show_icons=true&theme=great-gatsby)
 ![Caleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=calebcram&show_icons=true&theme=gotham)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calebcram&langs_count=6&layout=compact&theme=cobalt)](https://github.com/calebcram/github-readme-stats)
-![Caleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=calebcram&show_icons=true&theme=yeblu)
+![Caleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=calebcram&show_icons=true&theme=ocean_dark)
 ![Caleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=calebcram&show_icons=true&theme=blueberry)
-![Caleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=calebcram&show_icons=true&theme= slateorange)
-![Caleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=calebcram&show_icons=true&theme=kacho)
+![Caleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=calebcram&show_icons=true&theme= city_lights)
+![Caleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=calebcram&show_icons=true&theme=github_dark)
 ![Caleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=calebcram&show_icons=true&theme=outrun)
 
