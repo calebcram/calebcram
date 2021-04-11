@@ -2,7 +2,7 @@
 I’m an XR developer and Experienced Technician with a demonstrated history of working in the civil engineering industry, studying GIMM (Gaming Interactive Media and Mobile Technology) at Boise State University.
 
 - 📫 Connect With Me on https://www.linkedin.com/in/caleb-cram-devloper
-- 🌱 I’m currently learning about XR Development for the Hololens 2
+- 🌱 I’m currently learning XR Development for the Hololens 2
 - 🔭 I’m working on leveraging compter vision to enable object recogniton in ARSIS 4.0
 - 👯 I’m looking to collaborate on Open Source Mixed Reality Projects
 - 💬 Vist https://sites.google.com/view/calebcram-gamedeveloper/home?authuser=0 to learn more 
