@@ -3,8 +3,9 @@ I’m an XR developer and Experienced Technician with a demonstrated history of 
 
 - 📫 Connect With Me on https://www.linkedin.com/in/caleb-cram-devloper
 - 🌱 I’m currently learning about XR Development for the Hololens 2
-- 🔭 I’m currently working on leveraging compter vision to enable object recogniton in ARSIS 4.0
+- 🔭 I’m working on leveraging compter vision to enable object recogniton in ARSIS 4.0
 - 👯 I’m looking to collaborate on Open Source Mixed Reality Projects
+- 💬 Vist https://sites.google.com/view/calebcram-gamedeveloper/home?authuser=0 to learn more 
 <!--
 **calebcram/calebcram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
