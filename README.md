@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 ![Caleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=calebcram&show_icons=true&theme=yeblu)
 ![Caleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=calebcram&show_icons=true&theme=blueberry)
 ![Caleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=calebcram&show_icons=true&theme= slateorange)
-![Caleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=calebcram&show_icons=true&theme=kacho_ga)
+![Caleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=calebcram&show_icons=true&theme=kacho)
 ![Caleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=calebcram&show_icons=true&theme=outrun)
 
