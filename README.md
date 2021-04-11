@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Caleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=calebcram&show_icons=true&theme=gruvbox)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calebcram&langs_count=6&layout=compact&theme=tokyonight)](https://github.com/calebcram/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calebcram&langs_count=6&layout=compact&theme=onedark)](https://github.com/calebcram/github-readme-stats)
