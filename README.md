@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I’m an XR developer and Experienced Technician with a demonstrated history of working in the civil engineering industry, studying GIMM (Gaming Interactive Media and Mobile Technology) at Boise State University.
 <!--
 **calebcram/calebcram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
