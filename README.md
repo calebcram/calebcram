@@ -1,5 +1,5 @@
 ### Hello World 👋
-I’m an XR developer and Experienced Technician with a demonstrated history of working in the civil engineering industry, studying GIMM (Gaming Interactive Media and Mobile Technology) at Boise State University.
+I’m an XR developer and Experienced Technician with a passion for Augmented and Virtaul Realtiy along with the seemingly infinate possibiliteis there are to be explored within the technoglogy as innovation and capabilities grow. I am currently studying GIMM (Gaming Interactive Media and Mobile Technology) at Boise State University and leading the BSU NASA SUITS research team through which I have been exposed to Mixed Reality development combining VR, Hololens2 AR and a traditional desktop experience to create a seamless telepresense experience for enhance communication. 
 
 - 📫 Connect With Me on https://www.linkedin.com/in/caleb-cram-devloper
 - 🌱 I’m currently learning XR Development for the Hololens 2
