@@ -4,7 +4,7 @@ I’m an XR developer and Experienced Technician with a passion for Extended Rea
 - 🌱 I’m currently learning XR Development for the Hololens and Quest
 - 🔭 I’m working on leveraging compter vision to enable object recogniton in ARSIS 5.0
 - 👯 I’m looking to collaborate on Open Source Mixed Reality Projects
-- 📫 Connect With Me on https://www.linkedin.com/in/caleb-cram-devloper
+- 📫 Connect With Me on [LinkedIn](https://www.linkedin.com/in/caleb-cram-developer/), [YouTube](https://www.youtube.com/@calebcram), [Twitter](https://twitter.com/Cmancram), [Sketchfab](https://sketchfab.com/calebcram), [Artstation](https://www.artstation.com/cramberry)
 - 💬 Vist https://calebcram.dev/ or https://framevr.io/immersiveportfolio to see more of my work. 
 <!--
 **calebcram/calebcram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
