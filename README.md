@@ -3,7 +3,7 @@ I’m an XR developer and Experienced Technician with a passion for Extended Rea
 
 - 🌱 Exploring crossplatform Web XR for the Hololens, Quest, Nreal, Pico, HTC Vive, iOS/Android
 - 🔭 Leveraging spatial anchoring, edge computing, ML & IoT frameworks in co-located AR
-- 👯 I’m looking to collaborate on Open Source Mixed Reality Projects
+- 👯 I’m looking to collaborate on Open Source [Mixed Reality](https://github.com/calebcram/Passthrough-Online-MRTK_Quest---Sample), [WebXR](https://github.com/calebcram/Crossplatform-Multiplayer-Rover-AR-Demo)
 - 📫 Connect With Me on [LinkedIn](https://www.linkedin.com/in/caleb-cram-developer/), [YouTube](https://www.youtube.com/@calebcram), [Twitter](https://twitter.com/Cmancram), [Sketchfab](https://sketchfab.com/calebcram), [Artstation](https://www.artstation.com/cramberry)
 - 💬 Vist my [Portfolio](https://calebcram.dev/) or [Immersive Portfolio](https://framevr.io/immersiveportfolio) for more of my work. 
 <!--
