@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Caleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=calebcram&show_icons=true&theme=gotham&hide=issues)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calebcram&langs_count=6&layout=compact&theme=gotham)](https://github.com/calebcram/github-readme-stats)
+<!--![Caleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=calebcram&show_icons=true&theme=gotham&hide=issues)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calebcram&langs_count=6&layout=compact&theme=gotham)](https://github.com/calebcram/github-readme-stats)-->
 
 
 
